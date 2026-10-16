@@ -1,4 +1,4 @@
-Cianobactérias é um script que cria scripts
+## Cianobactérias é um script que cria scripts
 
 Feito a partir dos estudos do "Pequeno Manual do Programador GNU/BASH" do Blau Araujo
 
