@@ -9,10 +9,10 @@
 # Autor     : Alan Fernandes <4lan7ernandes@proton.me>
 # Licença   : GNU/GPL v3.0
 # -----------------------------------------------------------------------
-# Uso: krl.sh
+# Uso: cn.sh nomedoseuscript
 # -----------------------------------------------------------------------
 
-# PROCEDIMENTOS DE VALIDAÇÃO ---------------------------------
+# PROCEDIMENTOS DE VALIDAÇÃO
 #
 #
 #
@@ -31,7 +31,7 @@ msg_erro[3]="Já existe uma pasta chamada $1"
 erro() {
 
 	echo ${msg_erro[$1]}
-	echo "uso: cn novo-projeto"
+	echo "uso: cn.sh nomedoseuscript"
 	exit $1
 
        }
