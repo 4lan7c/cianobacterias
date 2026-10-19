@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
 
+# -----------------------------------------------------------------------
+# Projeto   : Cianobactérias
+# Arquivo   : cn.sh
+# Descrição : Script para criação de scripts
+# Versão    : 0.1.2
+# Data      : 20/08/2026 - 19:39
+# Autor     : Alan Fernandes <4lan7ernandes@proton.me>
+# Licença   : GNU/GPL v3.0
+# -----------------------------------------------------------------------
+# Uso: krl.sh
+# -----------------------------------------------------------------------
+
 # PROCEDIMENTOS DE VALIDAÇÃO ---------------------------------
 #
 #
